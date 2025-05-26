@@ -11,8 +11,5 @@
     },
     { "src": "/(.*)\\.(js|css|svg|png|jpg|jpeg|gif|ico)$", "dest": "/assets/$1.$2" },
     { "src": "/(.*)", "dest": "/index.html" }
-  ],
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
