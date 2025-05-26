@@ -24,12 +24,11 @@ const HeroSection: React.FC = () => {
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 text-transparent bg-clip-text">
-            Build Advanced AI Bots Without Code
+            The Agentic AI Platform for Finance and Accounting
           </h1>
 
           <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
-            Create intelligent AI assistants and deploy them anywhere. No coding required.
-            Hyperbots makes AI accessible to everyone.
+            Hyperbots proprietary, first-of-its-kind Agentic AI platform powers our state-of-the-art Finance & Accounting Co-Pilots.
           </p>
 
           <div className="flex flex-col md:flex-row justify-center gap-4 mb-16">
